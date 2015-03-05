@@ -1,0 +1,22 @@
+\\batserver\users$\crs97\documents\visual studio 2013\Projects\Network Activity Monitor\Network Activity Monitor\bin\Debug\Network Activity Monitor.exe.config
+\\batserver\users$\crs97\documents\visual studio 2013\Projects\Network Activity Monitor\Network Activity Monitor\bin\Debug\Network Activity Monitor.exe
+\\batserver\users$\crs97\documents\visual studio 2013\Projects\Network Activity Monitor\Network Activity Monitor\bin\Debug\Network Activity Monitor.pdb
+\\batserver\users$\crs97\documents\visual studio 2013\Projects\Network Activity Monitor\Network Activity Monitor\obj\Debug\Network Activity Monitor.csprojResolveAssemblyReference.cache
+\\batserver\users$\crs97\documents\visual studio 2013\Projects\Network Activity Monitor\Network Activity Monitor\obj\Debug\Network_Activity_Monitor.Network.resources
+\\batserver\users$\crs97\documents\visual studio 2013\Projects\Network Activity Monitor\Network Activity Monitor\obj\Debug\Network_Activity_Monitor.Properties.Resources.resources
+\\batserver\users$\crs97\documents\visual studio 2013\Projects\Network Activity Monitor\Network Activity Monitor\obj\Debug\Network Activity Monitor.csproj.GenerateResource.Cache
+\\batserver\users$\crs97\documents\visual studio 2013\Projects\Network Activity Monitor\Network Activity Monitor\obj\Debug\Network Activity Monitor.exe
+\\batserver\users$\crs97\documents\visual studio 2013\Projects\Network Activity Monitor\Network Activity Monitor\obj\Debug\Network Activity Monitor.pdb
+C:\Users\Christian\Documents\Visual Studio 2013\Projects\Network Activity Monitor\Network Activity Monitor\bin\Debug\Network Activity Monitor.exe.config
+C:\Users\Christian\Documents\Visual Studio 2013\Projects\Network Activity Monitor\Network Activity Monitor\obj\Debug\Network Activity Monitor.exe
+C:\Users\Christian\Documents\Visual Studio 2013\Projects\Network Activity Monitor\Network Activity Monitor\obj\Debug\Network Activity Monitor.pdb
+C:\Users\Christian\Documents\Visual Studio 2013\Projects\Network Activity Monitor\Network Activity Monitor\bin\Debug\net.ico
+C:\Users\Christian\Documents\Visual Studio 2013\Projects\Network Activity Monitor\Network Activity Monitor\bin\Debug\RX.ico
+C:\Users\Christian\Documents\Visual Studio 2013\Projects\Network Activity Monitor\Network Activity Monitor\bin\Debug\TX.ico
+C:\Users\Christian\Documents\Visual Studio 2013\Projects\Network Activity Monitor\Network Activity Monitor\bin\Debug\TXRX.ico
+C:\Users\Christian\Documents\Visual Studio 2013\Projects\Network Activity Monitor\Network Activity Monitor\bin\Debug\Network Activity Monitor.exe
+C:\Users\Christian\Documents\Visual Studio 2013\Projects\Network Activity Monitor\Network Activity Monitor\bin\Debug\Network Activity Monitor.pdb
+C:\Users\Christian\Documents\Visual Studio 2013\Projects\Network Activity Monitor\Network Activity Monitor\obj\Debug\Network Activity Monitor.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Documents\Visual Studio 2013\Projects\Network Activity Monitor\Network Activity Monitor\obj\Debug\Network_Activity_Monitor.Network.resources
+C:\Users\Christian\Documents\Visual Studio 2013\Projects\Network Activity Monitor\Network Activity Monitor\obj\Debug\Network_Activity_Monitor.Properties.Resources.resources
+C:\Users\Christian\Documents\Visual Studio 2013\Projects\Network Activity Monitor\Network Activity Monitor\obj\Debug\Network Activity Monitor.csproj.GenerateResource.Cache
